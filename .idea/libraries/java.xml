@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="java">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Desktop/hibernate-eclipse-postgresql.zip!/hibernate-eclipse-postgresql/src/main/java" />
+      <root url="jar://$USER_HOME$/Desktop/hibernate-eclipse-postgresql.zip!/hibernate-eclipse-postgresql/src/test/java" />
+    </SOURCES>
+  </library>
+</component>

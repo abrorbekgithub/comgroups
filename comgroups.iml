@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration>
+        <fileset id="fileset" name="Springconfig" removed="false">
+          <file>file://$MODULE_DIR$/src/main/webapp/WEB-INF/springconfig.xml</file>
+        </fileset>
+      </configuration>
+    </facet>
+    <facet type="hibernate" name="Hibernate">
+      <configuration>
+        <datasource-map>
+          <unit-entry name="src:main:webapp:resourse:hibernate.cfg.xml" value="85022629-3602-4eb5-ad15-ece91bc9975e" />
+        </datasource-map>
+        <naming-strategy-map />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/src/main/webapp/resourse/hibernate.cfg.xml" />
+      </configuration>
+    </facet>
+  </component>
+</module>
